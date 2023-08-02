@@ -1,11 +1,11 @@
-package main
+package greetUser
 
 import (
 	"fmt"
 	"time"
 )
 
-func main() {
+func Greet() {
 	currentTime := time.Now()
 	hour := currentTime.Hour()
 
