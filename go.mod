@@ -1,3 +1,3 @@
-module boofdev.org/time-greet
+module boofdev.org/timegreet
 
 go 1.20
